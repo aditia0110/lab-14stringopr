@@ -1,6 +1,6 @@
 # lab-14stringopr
 
-## Repository ini dibuat sebagai tugas Bahasa Pemrograman
+## Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman
 
 1. Pertama kita buat folder `lab-14stringopt` dan didalam folder tersebut kita buat file `latihan.py` dan `latihan2.py`
 
